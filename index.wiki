@@ -1,0 +1,65 @@
+= 小新的维基世界 =
+%toc 
+=== 这是什么？ ===
+这里是[[http://weibo.com/tinyxd|@西电小小新]] 的Wiki World。基于[[tips/vim/vimwiki-guide|Vimwiki]]搭建的维基世界。查看站点地图，猛点击[[SiteMap|站点地图]]。
+
+<div id="whats-special" class="lesser" style="width: 45em">
+<div class="hd">wiki特色功能</div>
+<div class="cont">
+
+# 本wiki是我参考 [[https://twitter.com/ktmud|@ktmud]] 所做，再此表示感谢。
+# 右上角有自定义Google搜索，马上试一试吧！---有未知bug
+# 快捷键 Shift + Z 可以显示和隐藏目录。 
+# Wiki集成[[http://diqus.com|DISQUS]]评论。
+# 申明：此wiki在Webkit内核的浏览器里显示效果最佳，比如[[http://www.google.com/chrome/?hl=zh-CN|Chrome]] 或 [[http://www.apple.com.cn/safari/|Safari]]）。
+
+</div>
+</div>
+
+<hr />
+== 重点推荐 ==
+你可以在 [[http://weibo.com/tinyxd|新浪微博]] 找到我，我的个人网站--[[http://tinyxd.me/|Keen On Art of Tech]]记录了我的学习历程（闲着没事!纯折腾!），如果喜欢的话可以订阅更新。
+
+=== 订阅更新 ===
+ 
+# [[http://feed.feedsky.com/embed|使用FeedSky订阅]] 
+# [[http://feeds.feedburner.com/KeenOnArtOfTech|使用FeedBurner订阅]]
+# 订阅到邮箱：[[http://list.qq.com/cgi-bin/qf_invite?id=4f662a68045d0977ec73fb3a220b90dddfad59ade4a0eb6b|QQ邮箱列表]]
+=== 推荐的RSS阅读器 === 
+# [[http://www.google.com/reader/view/?hl=zh-CN|Google阅读器]]
+# [[http://reader.youdao.com/|有道阅读器]] 
+# [[http://xianguo.com/|鲜果阅读器]]
+<hr />
+== 个人博客名字来由 ==
+本人对起名字这种东西，向来不敏感。起一个看起来有范的博客名，想了好久。终于有一天，[[http://weibo.com/u/1833576183|西瓜]]从天而降，带来了`Keen On Art of Tech`。
+== 楼主简历 ==
+简历，简历，那得是相当的简单才行。
+* Master    
+* Circuits and systems, School of Electronic Engneering   
+* Xidian University   
+* Shaanxi, China, 710071    
+* Email: admin#tinyxd.me   
+
+{{{id="news"
+好吧，够简单吧！
+}}}
+
+
+=== 茫茫人海中哪里还有我 ===
+一直以来，没有一个叫的出口的网名。好网取了个xdhello都被[[http://weibo.com/u/1833576183|如果大西瓜]]笑了很多年。有一次偶然看到西电有个比较火爆的微博西电小新。好吧，我就西电小小新吧。故而，网名自此诞生。
+
+* [[http://tinyxd.me/|个人博客]]
+* [[http://www.douban.com/people/tinyxd/|豆瓣]]
+* [[http://weibo.com/tinyxd|新浪微博]]
+
+<hr>
+== 其他 ==
+- [[Links|友情链接]]
+- [[ReadIt|阅读推荐]]
+- [[Tasks|学习任务]]
+
+== 本wiki还存在的缺陷 ==
+- 右上角Google搜索似乎还有点小bug。
+
+
+%title 欢迎来到小新的维基世界 - a site build with Vim, Vimwiki and Git
