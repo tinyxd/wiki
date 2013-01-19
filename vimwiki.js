@@ -118,7 +118,7 @@ $(document).ready(function() {
     });
 
     function cseloaded() {
-        var customSearchControl = new google.search.CustomSearchControl('011142187251668761423:cq99bj-cylu ');
+        var customSearchControl = new google.search.CustomSearchControl('011142187251668761423:cq99bj-cylu');
         customSearchControl.setResultSetSize(5);
         customSearchControl.setNoResultsString('哎哟喂，找不到这个东东呢……');
 
